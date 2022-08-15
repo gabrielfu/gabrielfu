@@ -40,4 +40,4 @@ Here are some ideas to get you started:
 ![web3.js](https://img.shields.io/badge/-web3.js-000?&logo=web3dotjs&logoColor=F90)
 ![Ethereum](https://img.shields.io/badge/-Ethereum-000?&logo=ethereum)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielfu)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielfu&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
