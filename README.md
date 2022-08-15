@@ -25,6 +25,8 @@ Here are some ideas to get you started:
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielfu&langs_count=5&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Technologies
 
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
