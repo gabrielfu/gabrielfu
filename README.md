@@ -25,7 +25,11 @@ Here are some ideas to get you started:
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielfu&langs_count=5&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+### Machine Learning
+
+![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
+![Keras](https://img.shields.io/badge/-Keras-000?&logo=Keras)
+![OpenCV](https://img.shields.io/badge/-OpenCV-000?&logo=OpenCV)
 
 ### Technologies
 
@@ -34,12 +38,14 @@ Here are some ideas to get you started:
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 
 ### Blockchain
 
 ![web3.js](https://img.shields.io/badge/-web3.js-000?&logo=web3dotjs&logoColor=F90)
 ![Ethereum](https://img.shields.io/badge/-Ethereum-000?&logo=ethereum)
+![Solidity](https://img.shields.io/badge/-Solidity-000?&logo=solidity)
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielfu&langs_count=5&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielfu&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
