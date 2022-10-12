@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 ### Machine Learning
 
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 ![Keras](https://img.shields.io/badge/-Keras-000?&logo=Keras)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-000?&logo=OpenCV)
 
