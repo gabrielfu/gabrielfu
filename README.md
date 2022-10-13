@@ -49,5 +49,5 @@ Here are some ideas to get you started:
 ![Solidity](https://img.shields.io/badge/-Solidity-000?&logo=solidity)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielfu&langs_count=5&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielfu&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielfu&langs_count=5&hide_border=true&hide=Dockerfile&layout=compact&theme=tokyonight)](https://github.com/gabrielfu)
+[![profile stats](https://github-readme-stats.vercel.app/api?username=gabrielfu&count_private=true&show_icons=true&hide_border=true&theme=tokyonight)](https://github.com/gabrielfu)
