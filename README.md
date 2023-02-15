@@ -45,6 +45,7 @@ Here are some ideas to get you started:
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
+![GraphQL](https://img.shields.io/badge/-GraphQL-000?&logo=GraphQL)
 
 ### Blockchain
 
