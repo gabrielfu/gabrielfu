@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![Java](https://img.shields.io/badge/-Java-000?&logoColor=ffffff&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAHlBMVEUAAAAeHh5QUFB9fX2CgoKvr6+0tLTh4eHm5ub///8sIvciAAABBUlEQVR42u2XBYICMAwEm6Whnf8/+LQ9wSHBWdymthHKg+slywLp5kCLLBC3Bmo9hyOyFtaTONwUZ5HEaZDibmASczhBIzHOXSxTOI0a5JDKCZ8/LMejhTgaEzEoKSCFnf0LaimgAuRkM8KkzgDGF2cDCDm1A1CQ1KaVlNM8cGtVpHCe5uhgM3hPqU+HmAY/xM6sf01yqEeXTHX+SzpTDfcr2MoO5UTO95jiBCBpHlkDJtuOrLmrB1dLSJLKw6lZDscA1zfM5IHsL1YUyJH1l6IT1lRv6b+LgUcD+jcsFvuS3lG50VdiQ5IDXceuUSvZVrKVQh6XGnHGaY6SVJnSXNyqXnrpHVr8CWqHj2kqAAAAAElFTkSuQmCC)
-![Scala](https://img.shields.io/badge/-Scala-000?&logo=Scala&logoColor=007396)
+![Go](https://img.shields.io/badge/-Go-000?&logo=Go)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![Scala](https://img.shields.io/badge/-Scala-000?&logo=Scala&logoColor=007396)
 
 ### Big Data & Machine Learning
 
