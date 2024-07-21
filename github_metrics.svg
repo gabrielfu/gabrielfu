@@ -16,7 +16,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 5.63mb of code in 3003 edited files across 1136 commits</small>
+                <small>estimation from 5.63mb of code in 3004 edited files across 1137 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -27,7 +27,7 @@
                     <rect mask="url(#languages-bar)" x="216.1465025525729" y="0" width="82.01806879663859" height="8" fill="#3572A5"/>
                     <rect mask="url(#languages-bar)" x="298.1645713492115" y="0" width="47.88191803597644" height="8" fill="#f1e05a"/>
                     <rect mask="url(#languages-bar)" x="346.0464893851879" y="0" width="41.57842225903849" height="8" fill="#ff3e00"/>
-                    <rect mask="url(#languages-bar)" x="387.62491164422636" y="0" width="33.04408322573418" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="387.62491164422636" y="0" width="33.04408322573418" height="8" fill="#3178c6"/>
                     <rect mask="url(#languages-bar)" x="420.66899486996056" y="0" width="31.791399797838057" height="8" fill="#b07219"/>
                     <rect mask="url(#languages-bar)" x="452.4603946677986" y="0" width="7.539605332201331" height="8" fill="#dea584"/>
                 </svg>
@@ -110,7 +110,7 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
                                 TSX
                             </div>
@@ -144,7 +144,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 71.1kb of code in 79 edited files across 50 commits over last 11 days</small>
+                <small>estimation from 71.1kb of code in 79 edited files across 50 commits over last 12 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
