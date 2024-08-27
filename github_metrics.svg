@@ -27,7 +27,7 @@
                     <rect mask="url(#languages-bar)" x="216.3940893374086" y="0" width="82.6797444375829" height="8" fill="#3572A5"/>
                     <rect mask="url(#languages-bar)" x="299.07383377499144" y="0" width="47.6128964174881" height="8" fill="#f1e05a"/>
                     <rect mask="url(#languages-bar)" x="346.68673019247956" y="0" width="41.344816444795335" height="8" fill="#ff3e00"/>
-                    <rect mask="url(#languages-bar)" x="388.03154663727486" y="0" width="32.85842707168932" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="388.03154663727486" y="0" width="32.85842707168932" height="8" fill="#ededed"/>
                     <rect mask="url(#languages-bar)" x="420.8899737089642" y="0" width="31.61278176876917" height="8" fill="#b07219"/>
                     <rect mask="url(#languages-bar)" x="452.5027554777334" y="0" width="7.497244522266606" height="8" fill="#dea584"/>
                 </svg>
@@ -110,7 +110,7 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
                                 TSX
                             </div>
@@ -144,7 +144,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 237kb of code in 101 edited files across 33 commits over last 13 days</small>
+                <small>estimation from 237kb of code in 101 edited files across 33 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
